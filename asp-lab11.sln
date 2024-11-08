@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp-lab11", "asp-lab11\asp-lab11.csproj", "{3145CC61-8F49-4FE2-B6D4-C8123F5CB157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3145CC61-8F49-4FE2-B6D4-C8123F5CB157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145CC61-8F49-4FE2-B6D4-C8123F5CB157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145CC61-8F49-4FE2-B6D4-C8123F5CB157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145CC61-8F49-4FE2-B6D4-C8123F5CB157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
